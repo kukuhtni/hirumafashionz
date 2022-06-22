@@ -5,7 +5,7 @@
             <div class="item-slick1 item1-slick1" style="background-image: url(<?php echo base_url() ?>assets/template/images/banner1.jpg);">
                 <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
                     <span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="fadeInDown">
-                        Summer 2019
+                        Winter 2022
                     </span>
 
                     <h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="fadeInUp">
@@ -24,7 +24,7 @@
             <div class="item-slick1 item2-slick1" style="background-image: url(<?php echo base_url() ?>assets/template/images/banner2.jpg);">
                 <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
                     <span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="rollIn">
-                        Summer 2019
+                        Winter 2022
                     </span>
 
                     <h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="lightSpeedIn">
@@ -43,7 +43,7 @@
             <div class="item-slick1 item3-slick1" style="background-image: url(<?php echo base_url() ?>assets/template/images/banner3.jpg);">
                 <div class="wrap-content-slide1 sizefull flex-col-c-m p-l-15 p-r-15 p-t-150 p-b-170">
                     <span class="caption1-slide1 m-text1 t-center animated visible-false m-b-15" data-appear="rotateInDownLeft">
-                        Summer 2019
+                        Winter 2022
                     </span>
 
                     <h2 class="caption2-slide1 xl-text1 t-center animated visible-false m-b-37" data-appear="rotateInUpRight">
